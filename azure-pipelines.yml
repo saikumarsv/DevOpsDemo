@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Kaizen'
+  vmImage: Kaizen
 
 variables:
   buildConfiguration: 'Release'
